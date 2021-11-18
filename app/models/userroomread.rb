@@ -1,0 +1,2 @@
+class Userroomread < ApplicationRecord
+end
